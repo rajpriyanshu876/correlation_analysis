@@ -54,13 +54,23 @@ Heatmap – Correlation matrix of all numeric variables
 Correlation Score – Printed for each feature vs target
 
 🛠️ Built With
-Python
-
+Python 
 Pandas
-
 Seaborn & Matplotlib
-
 Scikit-learn
-
 Tkinter (for GUI-based file selection)
+
+🙋🏻 About Me
+
+## 🙋‍♂️ About Me
+
+Hi! I'm **Raj Priyanshu Choupdar**, a data enthusiast with a passion for uncovering insights through visualization and analytics. This project reflects my interest in automating data exploration—especially understanding how different variables relate to a target metric.
+
+I built this tool to simplify correlation analysis using Python, helping users get quick visual and statistical feedback from their datasets. Whether you're working with business KPIs, product reviews, or survey data, this project makes it easier to identify meaningful patterns.
+
+Feel free to connect or collaborate!
+🔗 Connect with me : 💼 linkedin.com/in/rajpriyanshuchoupdar
+
+
+
 
