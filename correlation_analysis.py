@@ -78,15 +78,6 @@ for x in x:
 df[y] = pd.to_numeric(df[y], errors='coerce')
 df = df.dropna()
 
-# Plot Scatter Plot
-# plt.figure(figsize=(8, 6))
-# sns.scatterplot(data=df, x=x, y=y)
-# plt.title(f'Scatter Plot: {x} vs {y}')
-# plt.xlabel(x)
-# plt.ylabel(y)
-# plt.grid(True)
-# plt.show()
-
 #  Scatter plots of all other numeric columns vs target column y
 numeric_columns = df.columns.tolist()
 
